@@ -1,2 +1,0 @@
-C:\Users\Chris\source\repos\cppPerformanceTest1\Debug\cppPerformanceTest1.exe
-C:\Users\Chris\source\repos\cppPerformanceTest1\Debug\cppPerformanceTest1.pdb
