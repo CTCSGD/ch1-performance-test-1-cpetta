@@ -3,7 +3,7 @@
     {
       "name": "Run program",
       "setup": "",
-      "run": "make test",
+      "run": "make main",
       "input": "",
       "output": "",
       "comparison": "included",
